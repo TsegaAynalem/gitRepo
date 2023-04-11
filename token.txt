@@ -1,0 +1,2 @@
+git remote add origin https://<<token>>/username/repoName
+git remote add origin https://<token>@github.com/userName/repoName
